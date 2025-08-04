@@ -1,0 +1,2 @@
+# MachineLearning_Algorithms_Amandeep
+Python scripts implementing five machine learning algorithms
